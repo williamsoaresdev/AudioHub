@@ -33,6 +33,7 @@ yarn
 ## Run app
 
 ```sh
+npx expo prebuild
 yarn build
 ```
 
